@@ -1,1 +1,1 @@
-Machine-Learning-2023 Homewqrks
+Machine-Learning-2023 Homeworks
